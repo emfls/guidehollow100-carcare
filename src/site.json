@@ -1,0 +1,13 @@
+{
+  "title": "GuideHollow",
+  "short": "자동차 관리",
+  "section": "자동차 관리",
+  "slug": "carcare",
+  "hero": "차량의 소모품·실내 관리·계절 점검을 구분합니다.",
+  "description": "자동차 관리 분야에서 자주 생기는 문제의 원인과 안전한 점검 방법을 단계별로 설명합니다.",
+  "pageTitle": "자동차 관리 문제 해결 및 사용 가이드 | GuideHollow",
+  "url": "https://carcare.guidehollow.com/",
+  "accent": "#536F92",
+  "launchReady": false,
+  "adsReady": false
+}
