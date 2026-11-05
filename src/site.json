@@ -9,5 +9,6 @@
   "url": "https://carcare.guidehollow.com/",
   "accent": "#536F92",
   "launchReady": true,
-  "adsReady": false
+  "adsReady": false,
+  "coupangEnabled": true
 }
