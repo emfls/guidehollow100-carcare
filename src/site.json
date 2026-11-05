@@ -3,12 +3,13 @@
   "short": "자동차 관리",
   "section": "자동차 관리",
   "slug": "carcare",
-  "hero": "차량의 소모품·실내 관리·계절 점검을 구분합니다.",
-  "description": "타이어 관리·운행 전 차량 점검·소모품 안전을 설명하는 GuideHollow 자동차 가이드",
-  "pageTitle": "자동차 관리 상세 가이드 | GuideHollow",
+  "hero": "자동차 여행 연료비",
+  "description": "입력한 연비가 유지된다고 가정한 예상 연료비입니다.",
+  "pageTitle": "자동차 여행 연료비 | GuideHollow",
   "url": "https://carcare.guidehollow.com/",
   "accent": "#536F92",
   "launchReady": true,
   "adsReady": false,
-  "coupangEnabled": true
+  "coupangEnabled": true,
+  "utilityEnabled": true
 }
